@@ -1,5 +1,7 @@
 <?php
 
+namespace TwoPointers\ThreeSum;
+
 include_once "3Sum.php";
 
 $sol = new Solution();

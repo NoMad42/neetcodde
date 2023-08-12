@@ -1,6 +1,7 @@
 <?php
 
-namespace ContainerWithMostWater;
+namespace TwoPointers\ContainerWithMostWater;
+
 class Solution {
 
     /**

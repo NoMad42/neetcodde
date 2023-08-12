@@ -1,5 +1,7 @@
 <?php
 
+namespace TwoPointers\ThreeSum;
+
 class Solution {
 
     /**
